@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Prime_Factoring
 {
-    class Program
+    class PrimeFactorization
     {
         static void Main(string[] args)
         {
