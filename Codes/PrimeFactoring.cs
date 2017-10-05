@@ -1,6 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 
+/*
+    Returns the numbers 'building blocks' that the input number is 'built' of.
+    Language: C#
+*/
+
 namespace Prime_Factoring
 {
     class PrimeFactorization
